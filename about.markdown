@@ -1,18 +1,30 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Boris Janevski and I'm a self-taught software engineer. My passion for programming sparked when I built a mobile app and shipped it online. With no technical background I dived deep into Android development and eventually build the app. It gained some traction and was downloaded more than 2000 times! Rest is history...
+I'm currently working in a company which provides mobile banking solutions to Swiss banks where security, clean code and collaboration are the top priorities. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Some of relevant skills in the current field: 
+- MVVM
+- MVC
+- Clean architecture
+- Android SDK
+- Kotlin
+- Java
+- Jetpack compose
+- Kotlin coroutines
+- Kotlin flows
+- Leadership skills
+- UX/UI design
 
+Currently learning:
+- Pyhton
+- Django
+- Django Rest Frameqork
 
-[jekyll-organization]: https://github.com/jekyll
+In my free time I'm also dad, acrobatic paragliding pilot, street workout athlete, ultra trail runner...
