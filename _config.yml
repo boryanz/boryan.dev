@@ -37,7 +37,7 @@ minima:
   skin: dark
   header_pages:
     - about.markdown
-    - portfolio.md
+    
   social_links:
     - { platform: github, user_url: "https://github.com/boryanz"}
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/boris-janevski/"}
