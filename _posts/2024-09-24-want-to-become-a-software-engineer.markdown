@@ -5,18 +5,18 @@ date:   2024-09-25 16:45:48 +0200
 categories: jekyll update
 ---
 
-Eventually, you decided to try this field where people pay you money to sit all day in front of PC and type code. Nice, let's go deeper.
+Eventually, you decide to try this field where people pay you money to sit all day in front of PC and type code. Nice, let's break this down.
 
-Computer science is a HUGE field and you must decide which path to take. If you are complete begineer you could take anything because any initial knowledge you get is valuable. Let's say you take Native Android development as I did 5 years ago.
-In the beginning, what bugged me the most was from where to start!? No connections, no guidance no nothing. 
+Computer science is a HUGE field and you must decide which path to take. If you are a complete beginner you could take anything, because any initial knowledge you get is valuable. Let's say you choose Native Android development as I did 5 years ago.
+In the beginning, what bugged me the most was where to start!? No connections, no guidance no nothing. 
 
-The only way to learn conecept is to apply theoretical knowledge. The most closest path between theory and real project building, is the course. Take a course or a bootcamp and code along it. You won't understand most of the stuff but you will write down all the terminlogy and then search it later. 
-After finishing the course, immediatelly start building your own project, **this is the most important step**, because you will end up in a lot of errors and be forced to google every minute. At first it would be painful to google all day but as days goes by you will be more fluent in language which you are working on. For you it would be intuitive to learn all the concepts and watch dozens of tutorials before starting building something new, watch out, there lay the worst trap you can fall into!!! Terminology wise, it's called "Tutorial hell" where one watch tutorials all the time and knows nothing.
+The only way to learn conecept is to apply theoretical knowledge. The most closest path between theory, and the real project is the course. Take a course or a bootcamp and code along with it. You won't understand most of the stuff but you will write down all the terminlogy and then search for it later. 
+After finishing the course, immediatelly start building your own project, **this is the most important step**, because you will end up in a lot of errors and be forced to google every minute. At first, it will be painful to google all day but as days goes by you will be more fluent in language which you are working on. It would be intuitive to learn all the concepts and watch dozens of tutorials before starting building something new, watch out, this is the worst trap you can fall into!!! Terminology wise, it's called "Tutorial hell" where one watch tutorials all the time and knows nothing.
 
-The moment you start building your own stuff, you'll realize that you don't know nothing. You must endure this period which might be 1-4 months if you are complete beginner. Keep going, don't lose focus!
+The moment you start building your own stuff, you'll realize that you don't know nothing. You must hang on in this period which might be 1-4 months if you are complete beginner. Keep going, don't lose focus!
 The obvious question would be: Where to find ideas for real world project? 
 
-I suppose you have a hobby, or at least interest in something. If you don't, first get it and then start programming becuse software is just a tool for building solutions for the people.
+I suppose you have a hobby, or at least interest in something. If you don't, first get it and then start programming because software is just a tool for building solutions for people.
 Extract anything from your hobby, in my case I was beekeeper back then. My ideas was to keep track of my beehives, and have a todos inside the app. I am sure you can find something, even it sounds silly, build the product anyway!
 Keep in mind to keep the product(app) small with essential features only. 
 
