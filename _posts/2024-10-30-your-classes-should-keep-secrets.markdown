@@ -6,7 +6,6 @@ categories: jekyll update
 ---
 
 As software engineers, we all know what encapsulation is. For me, it's the best OOP principle, which could save you a lot of headaches in the long run. 
-
 One thing that is constant in software engineering is requirement change. While you are developing a feature, requirements might change multiple times either from stakeholders or developers. This is still a cheap solution because you can adapt everything before your PR is merged. Once your changes are in production, every new requirement will require additional work or even refactoring if you haven't followed OOP principles correctly. 
 
 During refinements and ticket creation, identify parts of the feature that are likely to be changed in the future. Even the smallest doubt that part of the system will change deserves a separate cohesive class, which would do one thing. Treat those classes as your house and expose minimum public API outside while keeping everything else secret. You don't want everybody to know what's in your house right? 
