@@ -7,12 +7,11 @@ categories: jekyll update
 
 I was a professional calisthenics athlete from 2015 until 2020, competing in national and international competitions across Europe. I love keeping my work-life balance, and I'm still a fitness enthusiast years later. In order to "fight" the dad-bod type of body, I developed a system to achieve the goal of staying lean. My son was born 3 and a half weeks ago, and despite a challenges with a newborn, here is my system to keep myself lean. 
 
-Current status: around 17-19% body fat
-Goal: under 12% body fat
-Time: 6 months
-
-Start: 01.11.2024
-Deadline: 01.05.2025
+- Current status: around 17-19% body fat
+- Goal: under 12% body fat
+- Time: 6 months
+- Start: 01.11.2024
+- Deadline: 01.05.2025
 
 Rules:
 
