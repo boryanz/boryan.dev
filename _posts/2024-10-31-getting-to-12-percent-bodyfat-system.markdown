@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Get to 12% body fat system"
-date:   2024-10-30 17:43:48 +0200
+date:   2024-10-31 17:43:48 +0200
 categories: jekyll update
 ---
 
